@@ -30,6 +30,7 @@
 .flair-blade2{background-position:-60px -150px}
 .flair-bullseye{background-position:0 -180px}
 .flair-bullseye1{background-position:-30px -180px}
+.flair-bullseye2{background-position:-60px -180px}
 .flair-cap{background-position:0 -210px}
 .flair-cap1{background-position:-30px -210px}
 .flair-cap2{background-position:-60px -210px}
@@ -71,10 +72,12 @@
 .flair-rider3{background-position:-90px -480px}
 .flair-goblin{background-position:0 -510px}
 .flair-goblin1{background-position:-30px -510px}
+.flair-goblin2{background-position:-60px -510px}
 .flair-groot{background-position:0 -540px}
 .flair-groot1{background-position:-30px -540px}
 .flair-groot2{background-position:-60px -540px}
 .flair-groot3{background-position:-90px -540px}
+.flair-groot4{background-position:-120px -540px}
 .flair-hawkeye{background-position:0 -570px}
 .flair-hawkeye1{background-position:-30px -570px}
 .flair-hawkeye2{background-position:-60px -570px}
@@ -108,6 +111,7 @@
 .flair-loki1{background-position:-30px -750px}
 .flair-loki2{background-position:-60px -750px}
 .flair-loki3{background-position:-90px -750px}
+.flair-loki4{background-position:-120px -750px}
 .flair-luke{background-position:0 -780px}
 .flair-luke1{background-position:-30px -780px}
 .flair-luke2{background-position:-60px -780px}
@@ -163,6 +167,7 @@
 .flair-thor4{background-position:-120px -1140px}
 .flair-thor5{background-position:-150px -1140px}
 .flair-thor6{background-position:-180px -1140px}
+.flair-thor7{background-position:-210px -1140px}
 .flair-ultron{background-position:0 -1170px}
 .flair-ultron1{background-position:-30px -1170px}
 .flair-ultron2{background-position:-60px -1170px}
@@ -241,6 +246,7 @@
 .flair-cho1{background-position:-30px -1980px}
 .flair-cho2{background-position:-60px -1980px}
 .flair-carnage{background-position:0 -2010px}
+.flair-carnage1{background-position:-30px -2010px}
 .flair-kamala{background-position:0 -2040px}
 .flair-kamala1{background-position:-30px -2040px}
 .flair-kamala2{background-position:-60px -2040px}
@@ -385,6 +391,7 @@
 .flair-heimdall{background-position:0 -4230px}
 .flair-skurge{background-position:0 -4260px}
 .flair-valkyrie{background-position:0 -4290px}
+.flair-valkyrie1{background-position:-30px -4290px}
 .flair-america{background-position:0 -4320px}
 .flair-antiman{background-position:0 -4350px}
 .flair-bluemarvel{background-position:0 -4380px}
@@ -449,6 +456,7 @@
 .flair-crescent1{background-position:-30px -5430px}
 .flair-whitefox{background-position:0 -5460px}
 .flair-whitefox1{background-position:-30px -5460px}
+.flair-whitefox2{background-position:-60px -5460px}
 .flair-morgan{background-position:0 -5490px}
 .flair-reed{background-position:0 -5970px}
 .flair-reed1{background-position:-30px -5970px}
@@ -521,7 +529,12 @@
 .flair-scream{background-position: 0px -7590px}
 .flair-spiderwoman{background-position: 0px -7620px}
 .flair-knull{background-position: 0px -7650px}
-
+.flair-ares{background-position: 0px -7680px}
+.flair-centry{background-position: 0px -7710px}
+.flair-daken{background-position: 0px -7740px}
+.flair-moleculeman{background-position: 0px -7770px}
+.flair-moonstone{background-position: 0px -7800px}
+.flair-scorpion{background-position: 0px -7830px}
 
 
 
