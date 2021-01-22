@@ -50,9 +50,6 @@ flair.by_id = {};
 flair.names = {
 	/* [STANDARD] */
 
-
-
-
 "Abomination00 character abomination" : "Abomination [Modern] #Super Villain# #Villain# #Combat# #Male# #Human##Gamma Radiation# #Durability# #Potential#",
 "AbsorbingMan00 character absorbingman" : "Absorbing Man [Modern] #Super Villain# #Villain# #Combat# #Male# #Human# #Strong#",
 "AdamWarlock00 character adam" : "Adam Warlock [Modern] #Super Hero# #Hero# #Blast# #Male# #Creature# #Time Freezing Immunity# #Magic#",
